@@ -1,0 +1,197 @@
+Merged Topic,Topic 1,Topic 2,Ring,Count
+Business-US Politics,Business,US Politics,3,3
+Business-Regional,Business,Regional,2,4
+Business-Terrorism,Business,Terrorism,2,1
+Business-Protests,Business,Protests,3,2
+Business-World Politics,Business,World Politics,3,1
+Business-Blank,Business,Blank,4,40
+Campus-Protests,Campus,Protests,3,76
+Campus-US Politics,Campus,US Politics,3,10
+Campus-World Politics,Campus,World Politics,3,1
+Campus-Business,Campus,Business,3,1
+Campus-Blank,Campus,Blank,4,26
+Campus-Culture,Campus,Culture,4,3
+Culture-Protests,Culture,Protests,3,9
+Culture-US Politics,Culture,US Politics,3,4
+Culture-Israeli Politics,Culture,Israeli Politics,3,1
+Culture-Palestinian Suffering,Culture,Palestinian Suffering,3,1
+Culture-Oct 7 Events,Culture,Oct 7 Events,3,1
+Culture-US General,Culture,US General,3,1
+Culture-Blank,Culture,Blank,4,93
+Culture-Business,Culture,Business,4,7
+Culture-Education,Culture,Education,4,2
+Culture-Journalism,Culture,Journalism,4,2
+Culture-Campus,Culture,Campus,4,2
+Culture-World Politics,Culture,World Politics,4,4
+Diplomacy-Israelis,Diplomacy,Israelis,2,4
+Diplomacy-Israeli Politics,Diplomacy,Israeli Politics,2,4
+Diplomacy-Humanitarian Aid,Diplomacy,Humanitarian Aid,2,2
+Diplomacy-World Politics,Diplomacy,World Politics,2,3
+Diplomacy-Regional,Diplomacy,Regional,2,13
+Diplomacy-UN,Diplomacy,UN,2,1
+Diplomacy-Military Analysis,Diplomacy,Military Analysis,2,6
+Diplomacy-Regional,Diplomacy,Regional,2,13
+Diplomacy-Israel-US,Diplomacy,Israel-US,2,1
+Diplomacy-Palestinians,Diplomacy,Palestinians,2,3
+Duplicate-Blank,Duplicate,Blank,5,483
+Education-Culture,Education,Culture,3,4
+Education-US Politics,Education,US Politics,3,4
+Egypt-Military Analysis,Egypt,Military Analysis,0,6
+Gaza-Military Analysis,Gaza,Military Analysis,0,93
+Gaza-Palestinian Suffering,Gaza,Palestinian Suffering,0,94
+Hostages-War Crimes,Hostages,War Crimes,0,1
+Hostages-Oct 7 Events,Hostages,Oct 7 Events,0,7
+Hostages-Israeli Prisons,Hostages,Israeli Prisons,0,1
+Hostages-Military Analysis,Hostages,Military Analysis,0,5
+Hostages-Israelis,Hostages,Israelis,0,1
+Hostages-Negotiations,Hostages,Negotiations,0,5
+Hostages-Wrap-Up,Hostages,Wrap-Up,0,1
+Hostages-Blank,Hostages,Blank,0,19
+Hostages-Diplomacy,Hostages,Diplomacy,1,2
+Humanitarian Aid-Military Analysis,Humanitarian Aid,Military Analysis,0,8
+Humanitarian Aid-Palestinian Suffering,Humanitarian Aid,Palestinian Suffering,0,4
+Humanitarian Aid-US Politics,Humanitarian Aid,US Politics,0,1
+Humanitarian Aid-UN,Humanitarian Aid,UN,0,3
+Humanitarian Aid-War Crimes,Humanitarian Aid,War Crimes,0,1
+Humanitarian Aid-Protests,Humanitarian Aid,Protests,0,1
+Humanitarian Aid-Negotiations,Humanitarian Aid,Negotiations,0,2
+Humanitarian Aid-Blank,Humanitarian Aid,Blank,0,51
+Humanitarian Aid-Diplomacy,Humanitarian Aid,Diplomacy,1,1
+International Court-Blank,International Court,Blank,2,20
+International Court-West Bank,International Court,West Bank,2,1
+International Court-Humanitarian Aid,International Court,Humanitarian Aid,2,1
+International Court-Israeli Politics,International Court,Israeli Politics,1,1
+Iran-Military Analysis,Iran,Military Analysis,0,22
+Iran-Diplomacy,Iran,Diplomacy,1,8
+Iran-Business,Iran,Business,1,1
+Israeli Politics-Diplomacy,Israeli Politics,Diplomacy,1,1
+Israeli Politics-Blank,Israeli Politics,Blank,1,21
+Israeli Politics-Business,Israeli Politics,Business,1,1
+Israeli Politics-Military Analysis,Israeli Politics,Military Analysis,1,8
+Israeli Politics-Palestinian Politics,Israeli Politics,Palestinian Politics,1,3
+Israeli Politics-Oct 7 Events,Israeli Politics,Oct 7 Events,1,3
+Israeli Politics-Journalism,Israeli Politics,Journalism,1,1
+Israeli Politics-Israel-US,Israeli Politics,Israel-US,1,2
+Israeli Politics-Culture,Israeli Politics,Culture,1,1
+Israeli Politics-Humanitarian Aid,Israeli Politics,Humanitarian Aid,1,1
+Israeli Politics-Palestinians,Israeli Politics,Palestinians,1,1
+Israeli Politics-Hostages,Israeli Politics,Hostages,1,2
+Israeli Politics-Negotiations,Israeli Politics,Negotiations,1,1
+Israelis-Blank,Israelis,Blank,0,9
+Israelis-Business,Israelis,Business,0,6
+Israelis-Culture,Israelis,Culture,0,6
+Israelis-Protests,Israelis,Protests,0,1
+Israelis-Oct 7 Events,Israelis,Oct 7 Events,0,7
+Israelis-Military Analysis,Israelis,Military Analysis,0,2
+Israelis-Arab Israelis,Israelis,Arab Israelis,0,3
+Israelis-Palestinians,Israelis,Palestinians,0,3
+Israelis-Israeli Politics,Israelis,Israeli Politics,0,2
+Israel-US-Diplomacy,Israel-US,Diplomacy,1,7
+Journalism-Blank,Journalism,Blank,2,9
+Journalism-Oct 7 Events,Journalism,Oct 7 Events,1,1
+Journalism-US Politics,Journalism,US Politics,3,1
+Lebanon-Military Analysis,Lebanon,Military Analysis,0,17
+Lebanon-Israelis,Lebanon,Israelis,0,2
+Military Aid-US Politics,Military Aid,US Politics,1,4
+Military Aid-Israel-US,Military Aid,Israel-US,1,9
+Military Aid-Military Analysis,Military Aid,Military Analysis,1,1
+Military Aid-Blank,Military Aid,Blank,1,1
+Military Aid-Protests,Military Aid,Protests,1,1
+Military Analysis-Blank,Military Analysis,Blank,0,5
+Military Analysis-Israeli Politics,Military Analysis,Israeli Politics,0,2
+Military Analysis-Palestinian Suffering,Military Analysis,Palestinian Suffering,0,8
+Military Analysis-Oct 7 Events,Military Analysis,Oct 7 Events,0,11
+Military Analysis-Humanitarian Aid,Military Analysis,Humanitarian Aid,0,13
+Military Analysis-War Crimes,Military Analysis,War Crimes,0,4
+Military Analysis-Israel-US,Military Analysis,Israel-US,0,6
+Military Analysis-Egypt,Military Analysis,Egypt,0,1
+Military Analysis-Wrap-Up,Military Analysis,Wrap-Up,0,6
+Military Analysis-Hostages,Military Analysis,Hostages,0,4
+Military Analysis-Military Aid,Military Analysis,Military Aid,0,1
+Military Analysis-Diplomacy,Military Analysis,Diplomacy,1,14
+Negotiations-Palestinian Suffering,Negotiations,Palestinian Suffering,0,1
+Negotiations-Wrap-Up,Negotiations,Wrap-Up,0,2
+Negotiations-Military Analysis,Negotiations,Military Analysis,0,6
+Negotiations-Humanitarian Aid,Negotiations,Humanitarian Aid,0,3
+Negotiations-Hostages,Negotiations,Hostages,0,6
+Negotiations-Blank,Negotiations,Blank,0,28
+Negotiations-Diplomacy,Negotiations,Diplomacy,1,4
+Negotiations-Israeli Politics,Negotiations,Israeli Politics,1,3
+Negotiations-US Politics,Negotiations,US Politics,1,2
+Negotiations-Regional,Negotiations,Regional,1,2
+Negotiations-Blank,Negotiations,Blank,1,28
+Not Article-Blank,Not Article,Blank,5,20
+Oct 7 Events-Blank,Oct 7 Events,Blank,0,26
+Oct 7 Events-Arab Israelis,Oct 7 Events,Arab Israelis,0,1
+Oct 7 Events-Israeli Politics,Oct 7 Events,Israeli Politics,0,2
+Other-Blank,Other,Blank,4,15
+Palestinians-Blank,Palestinians,Blank,0,2
+Palestinian Politics-Blank,Palestinian Politics,Blank,1,3
+Palestinian Politics-Military Analysis,Palestinian Politics,Military Analysis,1,1
+Palestinian Suffering-Blank,Palestinian Suffering,Blank,0,3
+Palestinian Suffering-Wrap-Up,Palestinian Suffering,Wrap-Up,0,1
+Palestinian Suffering-Israeli Politics,Palestinian Suffering,Israeli Politics,0,1
+Palestinian Suffering-Journalism,Palestinian Suffering,Journalism,0,1
+Palestinian Suffering-Military Analysis,Palestinian Suffering,Military Analysis,0,14
+Palestinian Suffering-Israeli Prisons,Palestinian Suffering,Israeli Prisons,0,2
+Protests-US Politics,Protests,US Politics,3,17
+Protests-Culture,Protests,Culture,3,4
+Regional-Humanitarian Aid,Regional,Humanitarian Aid,1,1
+Regional-Military Analysis,Regional,Military Analysis,1,46
+Regional-Wrap-Up,Regional,Wrap-Up,1,2
+Regional-Diplomacy,Regional,Diplomacy,2,1
+Regional-Iran,Regional,Iran,2,22
+Regional-Protests,Regional,Protests,2,6
+Regional-Egypt,Regional,Egypt,2,4
+Regional-Humanitarian Aid,Regional,Humanitarian Aid,2,1
+Regional-Iran,Regional,Iran,2,22
+Regional-Blank,Regional,Blank,2,10
+Regional-Terrorism,Regional,Terrorism,2,1
+Regional-Protests,Regional,Protests,2,6
+Regional-World Politics,Regional,World Politics,3,1
+Regional-Business,Regional,Business,3,5
+Regional-Military Aid,Regional,Military Aid,2,1
+Regional-US Politics,Regional,US Politics,3,1
+Sanctions-West Bank,Sanctions,West Bank,1,4
+Sanctions-Military Aid,Sanctions,Military Aid,1,5
+Social Media-Blank,Social Media,Blank,2,6
+UN-Humanitarian Aid,UN,Humanitarian Aid,1,10
+UN-Oct 7 Events,UN,Oct 7 Events,1,4
+UN-Military Analysis,UN,Military Analysis,1,4
+UN-Blank,UN,Blank,1,5
+UN-Palestinian Suffering,UN,Palestinian Suffering,1,2
+UN-Diplomacy,UN,Diplomacy,2,2
+UN-Regional,UN,Regional,2,1
+US General-Blank,US General,Blank,3,6
+US General-Terrorism,US General,Terrorism,3,3
+US General-Culture,US General,Culture,3,1
+US Politics-Humanitarian Aid,US Politics,Humanitarian Aid,1,2
+US Politics-Diplomacy,US Politics,Diplomacy,2,1
+US Politics-Military Aid,US Politics,Military Aid,2,38
+US Politics-Israel-US,US Politics,Israel-US,1,7
+US Politics-Culture,US Politics,Culture,3,2
+US Politics-Blank,US Politics,Blank,3,182
+War Crimes-Blank,War Crimes,Blank,1,6
+War Crimes-Israelis,War Crimes,Israelis,1,1
+War Crimes-Military Analysis,War Crimes,Military Analysis,1,1
+War Crimes-Palestinian Suffering,War Crimes,Palestinian Suffering,1,1
+West Bank-Terrorism,West Bank,Terrorism,0,2
+West Bank-Military Analysis,West Bank,Military Analysis,0,3
+West Bank-Israelis,West Bank,Israelis,0,7
+West Bank-War Crimes,West Bank,War Crimes,0,1
+West Bank-Hostages,West Bank,Hostages,0,1
+West Bank-Israeli Prisons,West Bank,Israeli Prisons,0,1
+West Bank-Palestinian Suffering,West Bank,Palestinian Suffering,0,6
+West Bank-Business,West Bank,Business,1,1
+West Bank-Diplomacy,West Bank,Diplomacy,1,2
+West Bank-Palestinian Politics,West Bank,Palestinian Politics,1,2
+West Bank-US Politics,West Bank,US Politics,1,2
+World Politics-Diplomacy,World Politics,Diplomacy,2,4
+World Politics-Military Aid,World Politics,Military Aid,2,5
+World Politics-Regional,World Politics,Regional,2,1
+World Politics-Protests,World Politics,Protests,2,4
+World Politics-Terrorism,World Politics,Terrorism,2,4
+World Politics-Culture,World Politics,Culture,3,1
+World Politics-Blank,World Politics,Blank,4,51
+World Politics-Military Analysis,World Politics,Military Analysis,2,1
+Wrap-up-Blank,Wrap-up,Blank,2,2
